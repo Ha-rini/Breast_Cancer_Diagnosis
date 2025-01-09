@@ -1,4 +1,4 @@
-# Breast_Cancer_Diagnosis
+# Breast Cancer Diagnosis
 To develop a robust machine learning solution for predicting breast cancer diagnosis, the project must 
 encompass functionalities for comprehensive data management (ingestion, validation, and cleaning), 
 exploratory data analysis with advanced visualization tools for insightful data exploration, and 
